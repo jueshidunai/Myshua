@@ -1,0 +1,21 @@
+python2 --version
+python3 --version
+
+pip --version
+pip3 --version
+
+pip3 -V
+
+sudo apt-get install python3-pip
+
+git --version
+
+sudo apt-get update
+sudo apt-get install git
+
+git config --global user.name"jueshidunai"
+git config --global user.email"jueshidunai@gmail.com"
+git config --list
+
+git init Myshua
+cd Myshua
